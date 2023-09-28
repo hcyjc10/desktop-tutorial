@@ -6,4 +6,4 @@ Write your name on line 6, save it, and then head back I MODIFIED HERE.
 
 Branch develop2 made changes to this line again, after transfering ownership
 
-This is the develop2, to be merged with develop
+This is the develop2, to be merged with develop, then merged with main
