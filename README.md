@@ -4,6 +4,8 @@ This is your README. READMEs are where you can communicate what your project is 
 
 Write your name on line 6, save it, and then head back I MODIFIED HERE.
 
-Branch develop made changes to this line again, after transfering ownership
+Branch develop2 made changes to this line again, after transfering ownership
 
-This is the develop branch to be merged with main
+This is the develop2, to be merged with develop
+
+This is the develop2, to be merged with develop
